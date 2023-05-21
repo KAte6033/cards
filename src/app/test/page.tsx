@@ -1,6 +1,6 @@
 export default function Bananas() {
     return (
-        <main className="flex justify-center  items-center">
+        <main className=" flex justify-center  items-center">
             <div className="w-[80%] rounded-2xl bg-[#878E88] items-center content-center h-screen m-10 ">
                 <div className="items-center justify-center content-center">
                     <div className="text-center p-2 text-3xl rounded-xl bg-[#D4DFC7]">

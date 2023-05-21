@@ -1,6 +1,6 @@
 export default function Milk() {
     return (
-
+        
 
         <div className="selection:bg-rose-500 selection:text-white">
             <div className="min-h-screen bg-[#FEF6C9] flex justify-center items-center">
@@ -20,7 +20,7 @@ export default function Milk() {
                                 </div>
                                 <div className="mt-10 relative">
                                     <input id="password" type="password" name="password" className="peer h-10 w-full border-b-2 border-gray-300 text-gray-900 placeholder-transparent focus:outline-none focus:border-rose-600" placeholder="Password" />
-                                    <label for="password" className="absolute left-0 -top-3.5 text-gray-600 text-sm transition-all peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-placeholder-shown:top-2 peer-focus:-top-3.5 peer-focus:text-gray-600 peer-focus:text-sm">Пароль</label>
+                                    <label  className="absolute left-0 -top-3.5 text-gray-600 text-sm transition-all peer-placeholder-shown:text-base peer-placeholder-shown:text-gray-400 peer-placeholder-shown:top-2 peer-focus:-top-3.5 peer-focus:text-gray-600 peer-focus:text-sm">Пароль</label>
                                 </div>
 
                                 <input type="sumbit" value="Зарегистрироваться" className="mt-20 px-4 py-2 rounded bg-[#96C0B7] hover:bg-rose-400 text-white font-semibold text-center block w-full focus:outline-none focus:ring focus:ring-offset-2 focus:ring-rose-500 focus:ring-opacity-80 cursor-pointer" />

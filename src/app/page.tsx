@@ -1,6 +1,6 @@
 export default function Eda() {
     return (
-        <main className="flex content-center">
+        <main className="flex relative content-center">
              
             <div className=" flex max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border m-10 text-gray-700 shadow-md">
 
@@ -44,8 +44,8 @@ export default function Eda() {
 
 
            
-            <button className="bg-[#96C0B7] place-content-center mt-10 w-[150px] h-[100px] text-xl rounded-3xl">
-                    Добавить
+            <button className="fixed bottom-5 right-5 bg-[#96C0B7] place-content-center mt-10 w-[80px] h-[80px] text-6xl rounded-full">
+                    +
                 </button>
 
         </main>
