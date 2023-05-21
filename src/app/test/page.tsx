@@ -19,7 +19,6 @@ export default function Bananas() {
                     <button className="bg-[#96C0B7] mx-1 p-3 text-2xl rounded-full">
                         Вернуться         
                     </button>
-                    <div>serdrfghhjkl;</div>
                 </div>
             </div>
         </main>
